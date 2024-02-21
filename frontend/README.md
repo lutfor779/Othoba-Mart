@@ -11,7 +11,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd othoba-mart-frontend
+  cd frontend
 ```
 
 Install dependencies
